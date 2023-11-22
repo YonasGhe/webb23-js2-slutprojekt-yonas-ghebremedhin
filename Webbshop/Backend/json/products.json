@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Optimum-Whey",
+    "price": 850,
+    "store": 11,
+    "image": "https://www.proteinbolaget.se/img/bilder/artiklar/zoom/PB-00018-7_1.jpg?m=1603279466"
+  },
+  {
+    "id": 2,
+    "name": "Premium-Iso",
+    "price": 449,
+    "store": 5,
+    "image": "https://lh3.googleusercontent.com/At1pVM9yPkLq2-Kn7Oeovenao3gmqODAPDNfElfpRVJ43XcPXixBYuwlN9hXIIRw5x77HpdAGIipYzBqhYJOY8K3ZDINDxL9=l80-w780-h790-nu"
+  },
+  {
+    "id": 3,
+    "name": "Whey-80",
+    "price": 259,
+    "store": 8,
+    "image": "https://www.gymgrossisten.com/dw/image/v2/BDJH_PRD/on/demandware.static/-/Sites-hsng-master-catalog/default/dw99dc79a1/Nya_produktbilder/Star_Nutrition/585R_Starnutrition_Whey80_Strawberry_1kg_Feb20.jpg?sw=655&sh=655&sm=fit&sfrm=png"
+  },
+  {
+    "id": 4,
+    "name": "Pulverprotein",
+    "price": 260,
+    "store": 3,
+    "image": "https://cdn.mmsports.se/images/D/BSC-Whey100-Natural-960_190812.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Iso Zero",
+    "price": 899,
+    "store": 10,
+    "image": "https://media.meds.se/meds/images/maxx-27397490-g-2019-12-23-095301257/550/550/fill/c/biotech-usa-iso-whey-chocolate-2-27-kg.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Protein-shake",
+    "price": 349,
+    "store": 0,
+    "image": "https://cdn.mmsports.se/images/D/BodyScience_ProteinDelight_VanillaMilkshake-2pack.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Vega protein",
+    "price": 650,
+    "store": 7,
+    "image": "https://myvega.com/cdn/shop/products/VegaPremiumSportVanilla29.2ozTub.png?v=1681853439&width=900"
+  },
+  {
+    "id": 8,
+    "name": "Elit Nutrition",
+    "price": 399,
+    "store": 4,
+    "image": "https://cdn.abicart.com/shop/images/187915393-origpic-308343/ws58/38958/art58/h5393/Whey_900g_Caramel.png"
+  }
+]
