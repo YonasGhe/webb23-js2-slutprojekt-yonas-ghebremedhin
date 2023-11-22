@@ -15,6 +15,6 @@ The Protein Shop Web App is an e-commerce platform for purchasing protein supple
 - **Feedback Messages:** Receive messages for successful purchases and other relevant updates.
 
 ## Acknowledgments
-.React - A JavaScript library for building user interfaces.
-.Node.js - JavaScript runtime for server-side development.
-.Express.js - Web application framework for Node.js.
+React - A JavaScript library for building user interfaces.
+Node.js - JavaScript runtime for server-side development.
+Express.js - Web application framework for Node.js.
